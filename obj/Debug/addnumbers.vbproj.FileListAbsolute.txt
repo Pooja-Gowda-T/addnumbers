@@ -1,0 +1,17 @@
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\bin\Debug\addnumbers.exe.config
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\bin\Debug\addnumbers.exe
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\bin\Debug\addnumbers.pdb
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\bin\Debug\addnumbers.xml
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\obj\Debug\addnumbers.vbproj.AssemblyReference.cache
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\obj\Debug\MainWindow.g.vb
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\obj\Debug\Application.g.vb
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\obj\Debug\addnumbers_MarkupCompile.cache
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\obj\Debug\addnumbers_MarkupCompile.lref
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\obj\Debug\MainWindow.baml
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\obj\Debug\addnumbers.g.resources
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\obj\Debug\addnumbers.Resources.resources
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\obj\Debug\addnumbers.vbproj.GenerateResource.cache
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\obj\Debug\addnumbers.vbproj.CoreCompileInputs.cache
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\obj\Debug\addnumbers.exe
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\obj\Debug\addnumbers.xml
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS 21-23\WED\AFTERNOON\addnumbers\obj\Debug\addnumbers.pdb
